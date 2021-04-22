@@ -1,0 +1,516 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1475841987768">
+  <folder name="assets">
+    <file name="hp-elitebook-840-notebook-pc---detail.png" crc="3910849743" mt="1445024694000"/>
+    <file name="ams_hp_elitebook_840_g1_notebook_pc_data_sheet.pdf" crc="4120376889" mt="1444721971000"/>
+    <file name="proone400aio_nontouch.pdf" crc="278516600" mt="1445182470000"/>
+    <file name="4aa5-7118eeap.pdf" crc="215695982" mt="1445108634000"/>
+    <file name="c04029347.pdf" crc="158933352" mt="1445186877000"/>
+    <file name="c04366472-1-.pdf" crc="14082842" mt="1445186693000"/>
+    <file name="hp-supplies-compatibility-matrix.pdf" crc="408024173" mt="1444886799000"/>
+    <file name="cn459a_hp_officejet_pro_x451dn_printer.pdf" crc="3870973786" mt="1445408506000"/>
+    <file name="colorlaserjetpro_mfp_m476_datasheet.pdf" crc="411258180" mt="1445409358000"/>
+    <file name="cf286a-1-.pdf" crc="395779238" mt="1445414915000"/>
+    <file name="c04229580.pdf" crc="85003281" mt="1444724024000"/>
+    <file name="c04128191.pdf" crc="3793122139" mt="1445422604000"/>
+    <file name="hppdfpdor00054051.pdf" crc="281076311" mt="1445423599000"/>
+    <file name="datasheet_z1.pdf" crc="245230089" mt="1445490100000"/>
+    <file name="4aa4-0128enuc.pdf" crc="244514237" mt="1445489939000"/>
+    <file name="4aa4-0129enuc.pdf" crc="3960615223" mt="1445489909000"/>
+    <file name="c04123230.pdf" crc="26382108" mt="1445489976000"/>
+    <file name="datasheet_z820.pdf" crc="407401201" mt="1445489818000"/>
+    <file name="c04434073.pdf" crc="3842160762" mt="1445025726000"/>
+    <file name="hp250notebook_datasheet.pdf" crc="257422083" mt="1444722143000"/>
+    <file name="hp_probook_5330m_datasheet_ttipl.pdf" crc="3844208845" mt="1444722258000"/>
+    <file name="c04284894.pdf" crc="419147696" mt="1445762185000"/>
+    <file name="cf145a.pdf" crc="86652217" mt="1455072194000"/>
+    <file name="designjett120.pdf" crc="3952895684" mt="1455071974000"/>
+    <file name="designjett520.pdf" crc="3913321788" mt="1455072046000"/>
+    <file name="4aa4-1679enw.pdf" crc="4250334563" mt="1455072100000"/>
+    <file name="the-outcome-of-postponement-is-not-for-your-own-good.docx" crc="461147417" mt="1442960117000"/>
+    <file name="map2.png" crc="4062587084" mt="1455680864000"/>
+    <file name="map.png" crc="4135205732" mt="1455679897000"/>
+    <file name="certificate-of-partnership---amlutech-ethiopia.pdf" crc="3927631156" mt="1449910360000"/>
+    <file name="hp-service-delivery-certificate---amlutech-ethiopia.pdf" crc="4232525462" mt="1449910368000"/>
+    <file name="pce-authorization.doc" crc="4218185418" mt="1412677268000"/>
+    <file name="hpspectrex360.pdf" crc="256333288" mt="1456807370000"/>
+    <file name="c04128132.pdf" crc="3846858557" mt="1457804852000"/>
+    <file name="c04111262.pdf" crc="368849831" mt="1457805503000"/>
+    <file name="hp_laserjet_enterprise_700_m712_printer_series2.pdf" crc="351193301" mt="1445061939000"/>
+    <file name="4aa6-1049eep.pdf" crc="4102472874" mt="1462298695000"/>
+    <file name="4aa6-1074eep.pdf" crc="4002968180" mt="1462301567000"/>
+    <file name="hp-color-laserjet-enterprise-m553x.pdf" crc="4054638802" mt="1462301273000"/>
+    <file name="hp-proliant-ml10-server.pdf" crc="477419563" mt="1444434580000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4125933281"/>
+    <file name="hp-officejet-pro-x451dn-color-inkjet-printer.css" crc="247614025" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="event-2015gc.css" crc="3817001336" ref="event-2015gc"/>
+    <file name="amlutech--contact-us.css" crc="3998753267" ref="amlutech--contact-us"/>
+    <file name="index.css" crc="3884006699" ref="index"/>
+    <file name="hp-all-in-one-printers.css" crc="387290147" ref="hp-all-in-one-printers"/>
+    <file name="amlutech-imported-product--workstation-computers.css" crc="4094843770" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="amlutech-imported-product--servers.css" crc="4241025178" ref="amlutech-imported-product--servers"/>
+    <file name="event-on-december-10---2013gc.css" crc="250551079" ref="event-on-december-10---2013gc"/>
+    <file name="event-2013gc.css" crc="4009450382" ref="event-2013gc"/>
+    <file name="hp-envy-5640-e-all-in-one-printer.css" crc="368569925" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp-elite-mobileworkstations.css" crc="3893992603" ref="hp-elite-mobileworkstations"/>
+    <file name="event-2014gc.css" crc="4096473144" ref="event-2014gc"/>
+    <file name="hp-color-inkjet-printers.css" crc="4056548021" ref="hp-color-inkjet-printers"/>
+    <file name="hp-thin-and-light.css" crc="511467941" ref="hp-thin-and-light"/>
+    <file name="amlutech-s-facility--head-office.css" crc="3869577359" ref="amlutech-s-facility--head-office"/>
+    <file name="hp-color-laserjet-pro-m477fnw-printer.css" crc="3937386443" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="hp-note-books.css" crc="174330355" ref="hp-note-books"/>
+    <file name="amlutech-s-facility--warehouse.css" crc="4257465861" ref="amlutech-s-facility--warehouse"/>
+    <file name="hp-multi-function-printers.css" crc="105307448" ref="hp-multi-function-printers"/>
+    <file name="hp-color-laserjet-enterprise-m553x-printer.css" crc="88269026" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp-elite-note-book.css" crc="3886989083" ref="hp-elite-note-book"/>
+    <file name="hp-laserjet-pro-m402dn-printer.css" crc="4167295632" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="hp-black-and-white-laserjet-printers.css" crc="488121733" ref="hp-black-and-white-laserjet-printers"/>
+    <file name="amlutech-s-facility--display-workshop.css" crc="3971946672" ref="amlutech-s-facility--display-workshop"/>
+    <file name="workstations---z220.css" crc="262916795" ref="workstations---z220"/>
+    <file name="amlutech-s-fully-equiped-and-authorized-maintainance-room.css" crc="179360572" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="amlutech-hp-s-gold-partner.css" crc="263912649" ref="amlutech-hp-s-gold-partner"/>
+    <file name="workstations---z420.css" crc="123105216" ref="workstations---z420"/>
+    <file name="our-recent-customers.css" crc="3892261446" ref="our-recent-customers"/>
+    <file name="workstations---z620.css" crc="247915184" ref="workstations---z620"/>
+    <file name="hp-customer-event-in-colaberation-with-amlutech-private-limited-company.css" crc="4031115819" ref="hp-customer-event-in-colaberation-with-amlutech-private-limited-company"/>
+    <file name="workstations---z820.css" crc="3909685115" ref="workstations---z820"/>
+    <file name="amlutech-imported-product--scanners.css" crc="214660727" ref="amlutech-imported-product--scanners"/>
+    <file name="workstations---allinone.css" crc="155309462" ref="workstations---allinone"/>
+    <file name="hp-proliant-dl980-g7.css" crc="5683343" ref="hp-proliant-dl980-g7"/>
+    <file name="amlutech-imported-product--toners.css" crc="77267550" ref="amlutech-imported-product--toners"/>
+    <file name="hp-pro-3300-small-form-factor-pc.css" crc="4254260854" ref="hp-pro-3300-small-form-factor-pc"/>
+    <file name="hp-blade-system.css" crc="110187711" ref="hp-blade-system"/>
+    <file name="hp-sl-server.css" crc="4165082471" ref="hp-sl-server"/>
+    <file name="hp-laserjet-printers.css" crc="4100161549" ref="hp-laserjet-printers"/>
+    <file name="hp-proliant-microserver.css" crc="4147587119" ref="hp-proliant-microserver"/>
+    <file name="hp-proliant-ml10-server.css" crc="8411335" ref="hp-proliant-ml10-server"/>
+    <file name="officejet-5740-e-all-in-one-printer.css" crc="7568866" ref="officejet-5740-e-all-in-one-printer"/>
+    <file name="hp-deskjet-3630-wireless-all-in-one-printer.css" crc="3793075000" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="hp-all-in-one-desktops.css" crc="52923266" ref="hp-all-in-one-desktops"/>
+    <file name="latest-amlutech-imported-desktop--hp-envy-750xt-desktop.css" crc="4134554684" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="hp-200-g1-microtower-business-pc.css" crc="4037560209" ref="hp-200-g1-microtower-business-pc"/>
+    <file name="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop.css" crc="273928773" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="amlutech-imported-product--desktop-computers.css" crc="8150956" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="hp-285-pro-g1-microtower-pc.css" crc="385763305" ref="hp-285-pro-g1-microtower-pc"/>
+    <file name="amlutech-imported-product--printers.css" crc="4074674143" ref="amlutech-imported-product--printers"/>
+    <file name="hp-large-format-printers.css" crc="4067218045" ref="hp-large-format-printers"/>
+    <file name="event-on-april-30---2012gc.css" crc="470562888" ref="event-on-april-30---2012gc"/>
+    <file name="amlutech-imported-product--laptop-computers.css" crc="334977313" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="hp-color-laserjet-pro-mfp-m476dw.css" crc="310777430" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="pin-point-amlutech-_google-map_.css" crc="65418494" ref="pin-point-amlutech-(google-map)"/>
+    <file name="iefonts_pin-point-amlutech-_google-map_.css" crc="4082217876" ref="pin-point-amlutech-(google-map)"/>
+    <file name="iefonts_amlutech--contact-us.css" crc="4275200857" ref="amlutech--contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:hp-customer-event-in-colaberation-with-amlutech-private-limited-company:our-recent-customers:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="museutils.js" crc="4136605575" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:hp-customer-event-in-colaberation-with-amlutech-private-limited-company:our-recent-customers:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:hp-customer-event-in-colaberation-with-amlutech-private-limited-company:our-recent-customers:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:hp-customer-event-in-colaberation-with-amlutech-private-limited-company:our-recent-customers:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="pie.js" crc="3827607177" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="webpro.js" crc="420478120" ref="index:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="musewpdisclosure.js" crc="4228034700" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="touchswipe.js" crc="60020316" ref="index:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:amlutech--contact-us:amlutech-imported-product--workstation-computers:amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:hp-customer-event-in-colaberation-with-amlutech-private-limited-company:our-recent-customers:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:pin-point-amlutech-(google-map):event-on-april-30---2012gc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer"/>
+  </folder>
+  <folder name="images">
+    <file name="amlutech-private-limited-company-home-page-favicon.ico" crc="155219141" ref="index"/>
+    <file name="logo.jpg" crc="505825898" ref="workstations---z220:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:event-on-december-10---2013gc:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="20160220170050-u14761-fr.jpg" crc="4156994952" ref="index"/>
+    <file name="20160220170206-u14764-fr.jpg" crc="319907632" ref="index"/>
+    <file name="fill 12 - fill 13-u13672.png" crc="487903372" ref="index"/>
+    <file name="fill 12 - fill 13-u13692.png" crc="487903372" ref="index"/>
+    <file name="fill 12 - fill 13-u13681.png" crc="487903372" ref="index"/>
+    <file name="fill 12 - fill 13-u13667.png" crc="487903372" ref="index"/>
+    <file name="fill 12 - fill 13-u13676.png" crc="487903372" ref="index"/>
+    <file name="fill 12 - fill 13-u13686.png" crc="487903372" ref="index"/>
+    <file name="20160216200155-u14870-fr.png" crc="501556491" ref="index"/>
+    <file name="soft slit separator.png" crc="4104113101" ref="index"/>
+    <file name="20160304085209.jpg" crc="4071391992" ref="index"/>
+    <file name="hp_logo-u31533-fr.png" crc="482116507" ref="index"/>
+    <file name="thunderbolt-u31639-fr.png" crc="266946628" ref="index"/>
+    <file name="newproduct-u31627-fr.jpg" crc="4127994776" ref="index"/>
+    <file name="retina pro.png" crc="210529463" ref="index"/>
+    <file name="hp_workstation1_820-u13725-fr.jpg" crc="402345676" ref="index"/>
+    <file name="allinone_5-u13728-fr.jpg" crc="116173480" ref="index"/>
+    <file name="elitenotebook_1-u13727-fr.jpg" crc="3777781510" ref="index"/>
+    <file name="hp_color_laser1-u13729-fr.jpg" crc="3970594987" ref="index"/>
+    <file name="microserver_4-u13730-fr.jpg" crc="4066347670" ref="index"/>
+    <file name="11-u13726-fr.png" crc="474783633" ref="index"/>
+    <file name="ups-u15135-fr.jpg" crc="3818798742" ref="index"/>
+    <file name="scanner-u15138-fr.png" crc="408961793" ref="index"/>
+    <file name="amlutech--contact-us-favicon.ico" crc="155219141" ref="amlutech--contact-us"/>
+    <file name="20160220170050-u34575-fr.jpg" crc="409658331" ref="amlutech--contact-us:workstations---z220:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-on-december-10---2013gc:pin-point-amlutech-(google-map):hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-envy-5640-e-all-in-one-printer:our-recent-customers"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" ref="amlutech--contact-us"/>
+    <file name="20160216200155-u14622-fr.png" crc="4254613310" ref="amlutech--contact-us"/>
+    <file name="amlutech-imported-product--workstation-computers-favicon.ico" crc="155219141" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="20160223035837-u15847-fr.png" crc="4276551228" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="20160220170050-u23893-fr.jpg" crc="3773822163" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="hp_workstation1_820-u4372-fr.jpg" crc="520227846" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="hp_logo-u4452-fr.png" crc="222716037" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="hp_workstation5_620-u4381-fr.jpg" crc="4035324854" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="hp_workstation2_420-u4392-fr.png" crc="459994854" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="20160223054637-u17057-fr.png" crc="474184550" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="20160223054704-u17057-r-fr.png" crc="4290605874" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="hp_allinone_1-u4403-fr.jpg" crc="4266736714" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="amlutech-imported-product--laptop-computers-favicon.ico" crc="155219141" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="c04915957-u29077-fr.png" crc="3764112665" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="newicon-u29093-fr.png" crc="142966995" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--desktop-computers"/>
+    <file name="hp probook 5330m notebook-u4547-fr.jpg" crc="484532890" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="hp 250 notebook pc-u4516-fr.jpg" crc="162120568" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="hp elitebook 840 notebook pc - side-u4534-fr.jpg" crc="4122097062" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="elitemobileworkstation_3-u4520-fr.jpg" crc="4145277270" ref="amlutech-imported-product--laptop-computers"/>
+    <file name="amlutech-imported-product--printers-favicon.ico" crc="155219141" ref="amlutech-imported-product--printers"/>
+    <file name="20160311181143-u4684-fr.png" crc="3926250433" ref="amlutech-imported-product--printers"/>
+    <file name="officejet pro x451dn printer-u4678-fr.jpg" crc="4265311548" ref="amlutech-imported-product--printers"/>
+    <file name="hp color laserjet pro-u4673-fr.jpg" crc="3766418593" ref="amlutech-imported-product--printers"/>
+    <file name="officejet 150-u4728-fr.jpg" crc="4092281528" ref="amlutech-imported-product--printers"/>
+    <file name="large_format_5-u4714-fr.jpg" crc="396584506" ref="amlutech-imported-product--printers"/>
+    <file name="hp_multifunction_2-u4725-fr.jpg" crc="4189255692" ref="amlutech-imported-product--printers"/>
+    <file name="amlutech-imported-product--desktop-computers-favicon.ico" crc="155219141" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="c04954231.png" crc="250963118" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="20160304154432-u4621-fr.jpg" crc="3900882338" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="20151018121919-u4615-fr.jpg" crc="310485950" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="hp 285 pro g1 microtower pc single-u4610-fr.jpg" crc="4156729986" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="20160304153931-u4604-fr.png" crc="368079367" ref="amlutech-imported-product--desktop-computers"/>
+    <file name="amlutech-imported-product--servers-favicon.ico" crc="155219141" ref="amlutech-imported-product--servers"/>
+    <file name="blade_system_3-u5020-fr.jpg" crc="139799203" ref="amlutech-imported-product--servers"/>
+    <file name="dlserver_3-u5028-fr.jpg" crc="39948960" ref="amlutech-imported-product--servers"/>
+    <file name="microserver_6-u4994-fr.jpg" crc="242154306" ref="amlutech-imported-product--servers"/>
+    <file name="mlserver_4-u5015-fr.jpg" crc="496481938" ref="amlutech-imported-product--servers"/>
+    <file name="slserver_1-u5008-fr.jpg" crc="247328303" ref="amlutech-imported-product--servers"/>
+    <file name="amlutech-imported-product--toners-favicon.ico" crc="155219141" ref="amlutech-imported-product--toners"/>
+    <file name="20160223035837-u35811-fr.png" crc="30913053" ref="amlutech-imported-product--toners:workstations---z220:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-color-inkjet-printers:hp-envy-5640-e-all-in-one-printer:hp-proliant-ml10-server:hp-proliant-microserver"/>
+    <file name="hpp-u8215-fr.jpg" crc="173028065" ref="amlutech-imported-product--toners"/>
+    <file name="workstations---allinone-favicon.ico" crc="155219141" ref="workstations---allinone"/>
+    <file name="hp_allinone_2-u5231-fr.jpg" crc="410321389" ref="workstations---allinone"/>
+    <file name="thunderbolt-u5263-fr.png" crc="238570170" ref="workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220"/>
+    <file name="hard slit separator96x26.png" crc="305908254" ref="workstations---allinone:hp-elite-mobileworkstations"/>
+    <file name="hard slit separator.png" crc="4109365653" ref="workstations---allinone:workstations---z820:workstations---z620:workstations---z420:hp-elite-mobileworkstations"/>
+    <file name="hpp-u5304-fr.jpg" crc="293533794" ref="workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="11-u5291-fr.jpg" crc="240232206" ref="workstations---allinone"/>
+    <file name="12-u5290-fr.jpg" crc="199489404" ref="workstations---allinone"/>
+    <file name="20160221184006-u21380-fr.jpg" crc="4107303594" ref="workstations---allinone:workstations---z820:workstations---z620:workstations---z420:workstations---z220:hp-officejet-pro-x451dn-color-inkjet-printer:hp-color-laserjet-pro-mfp-m476dw:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="workstations---z820-favicon.ico" crc="155219141" ref="workstations---z820"/>
+    <file name="hp_workstation1_820-u5340-fr.jpg" crc="134001964" ref="workstations---z820"/>
+    <file name="41-u5331-fr.jpg" crc="3851201745" ref="workstations---z820"/>
+    <file name="42-u5325-fr.jpg" crc="307694832" ref="workstations---z820"/>
+    <file name="workstations---z620-favicon.ico" crc="155219141" ref="workstations---z620"/>
+    <file name="31-u5377-fr.jpg" crc="474522869" ref="workstations---z620"/>
+    <file name="32-u5405-fr.jpg" crc="4226801701" ref="workstations---z620"/>
+    <file name="hp_workstation5_620.jpg" crc="496157108" ref="workstations---z620"/>
+    <file name="workstations---z420-favicon.ico" crc="155219141" ref="workstations---z420"/>
+    <file name="hp_workstation4_420.jpg" crc="3901916958" ref="workstations---z420"/>
+    <file name="422-u5521-fr.jpg" crc="504007585" ref="workstations---z420:workstations---z220"/>
+    <file name="421-u5540-fr.jpg" crc="307726938" ref="workstations---z420:workstations---z220"/>
+    <file name="workstations---z220-favicon.ico" crc="155219141" ref="workstations---z220"/>
+    <file name="20160227120327-u5589-fr.jpg" crc="446074333" ref="workstations---z220"/>
+    <file name="hp-black-and-white-laserjet-printers-favicon.ico" crc="155219141" ref="hp-black-and-white-laserjet-printers"/>
+    <file name="20160311181143-u5738-fr.png" crc="4175849341" ref="hp-black-and-white-laserjet-printers"/>
+    <file name="laserjet enterprise 700 m712 printer series letter-u7197-fr.jpg" crc="3764806436" ref="hp-black-and-white-laserjet-printers"/>
+    <file name="laserjet enterprise 700 m712 printer series view-u7206-fr.jpg" crc="4278193854" ref="hp-black-and-white-laserjet-printers"/>
+    <file name="hp_logo-u7190-fr.png" crc="3896941484" ref="hp-black-and-white-laserjet-printers:hp-deskjet-3630-wireless-all-in-one-printer:officejet-5740-e-all-in-one-printer:hp-laserjet-printers:hp-laserjet-pro-m402dn-printer:hp-color-laserjet-enterprise-m553x-printer:hp-color-laserjet-pro-m477fnw-printer:hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp-elite-note-book-favicon.ico" crc="155219141" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - front-u6697-fr.jpg" crc="34792597" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - side-u6693-fr.jpg" crc="65582042" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - back-u6699-fr.jpg" crc="3952842952" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - front-u6686-fr.jpg" crc="285625076" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - side-u6687-fr.jpg" crc="352477884" ref="hp-elite-note-book"/>
+    <file name="hp elitebook 840 notebook pc - back-u6688-fr.jpg" crc="495466154" ref="hp-elite-note-book"/>
+    <file name="hp-note-books-favicon.ico" crc="155219141" ref="hp-note-books"/>
+    <file name="hp_logo-u6570-fr.png" crc="345178033" ref="hp-note-books"/>
+    <file name="hp elitebook 840 notebook pc - front-u28788-fr.jpg" crc="317629721" ref="hp-note-books"/>
+    <file name="hp 250 notebook pc-u28788-a-fr.jpg" crc="326741748" ref="hp-note-books"/>
+    <file name="hp elitebook 840 notebook pc - side-u28782-fr.jpg" crc="4033975205" ref="hp-note-books"/>
+    <file name="hp elitebook 840 notebook pc - back-u28784-fr.jpg" crc="207170597" ref="hp-note-books"/>
+    <file name="hp 250 notebook pc-u28778-fr.jpg" crc="4185331805" ref="hp-note-books"/>
+    <file name="hp elitebook 840 notebook pc - side-u28776-fr.jpg" crc="3825706454" ref="hp-note-books"/>
+    <file name="hp elitebook 840 notebook pc - back-u28777-fr.jpg" crc="114433891" ref="hp-note-books"/>
+    <file name="hp-thin-and-light-favicon.ico" crc="155219141" ref="hp-thin-and-light"/>
+    <file name="hp probook 5330m notebook-u6517-fr.jpg" crc="363246121" ref="hp-thin-and-light"/>
+    <file name="hp probook 5330m notebook1-u6524-fr.jpg" crc="3873806560" ref="hp-thin-and-light"/>
+    <file name="hp-elite-mobileworkstations-favicon.ico" crc="155219141" ref="hp-elite-mobileworkstations"/>
+    <file name="mobile workstations-u6764-fr.jpg" crc="3806520408" ref="hp-elite-mobileworkstations"/>
+    <file name="20151017025459-u7168-fr.jpg" crc="3994937737" ref="hp-elite-mobileworkstations"/>
+    <file name="hp zbook 17 g2 mobile-u6748-fr.jpg" crc="4086155073" ref="hp-elite-mobileworkstations"/>
+    <file name="hp-multi-function-printers-favicon.ico" crc="155219141" ref="hp-multi-function-printers"/>
+    <file name="hp laserjet pro 200 color mfp m276nw-u7288-fr.jpg" crc="4193870335" ref="hp-multi-function-printers"/>
+    <file name="hpp-u8671-fr.jpg" crc="491902046" ref="hp-multi-function-printers"/>
+    <file name="903-u7318-fr.png" crc="4080163613" ref="hp-multi-function-printers"/>
+    <file name="122-u7319-fr.png" crc="4213764271" ref="hp-multi-function-printers"/>
+    <file name="123-u7320-fr.png" crc="495470894" ref="hp-multi-function-printers"/>
+    <file name="hp-all-in-one-printers-favicon.ico" crc="155219141" ref="hp-all-in-one-printers"/>
+    <file name="officejet150mobile_r2-u7263-fr.jpg" crc="295953685" ref="hp-all-in-one-printers"/>
+    <file name="hp-officejet-pro-x451dn-color-inkjet-printer-favicon.ico" crc="155219141" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="hp_cn459a_officejet_pro_x451dn_network_983400-u5882-fr.jpg" crc="512077349" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="801.jpg" crc="4034654986" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="802.jpg" crc="499002268" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="2-u5924-fr.jpg" crc="180285552" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="803.jpg" crc="445115873" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="804.jpg" crc="495276254" ref="hp-officejet-pro-x451dn-color-inkjet-printer"/>
+    <file name="hp-color-laserjet-pro-mfp-m476dw-favicon.ico" crc="155219141" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="laserjet.jpg" crc="3981308029" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="1.png" crc="3976633519" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="2-u5843-fr.jpg" crc="316301302" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="3-u5847-fr.png" crc="136190163" ref="hp-color-laserjet-pro-mfp-m476dw"/>
+    <file name="hp-large-format-printers-favicon.ico" crc="155219141" ref="hp-large-format-printers"/>
+    <file name="702.jpg" crc="3787589295" ref="hp-large-format-printers"/>
+    <file name="701.jpg" crc="165744083" ref="hp-large-format-printers"/>
+    <file name="700.jpg" crc="3992675552" ref="hp-large-format-printers"/>
+    <file name="t120-u6105-fr.jpg" crc="4275202679" ref="hp-large-format-printers"/>
+    <file name="t520-u6114-fr.jpg" crc="341552941" ref="hp-large-format-printers"/>
+    <file name="t790-u6117-fr.jpg" crc="479261873" ref="hp-large-format-printers"/>
+    <file name="hp-285-pro-g1-microtower-pc-favicon.ico" crc="155219141" ref="hp-285-pro-g1-microtower-pc"/>
+    <file name="hp 285 pro g1 microtower pc single-u6169-fr.jpg" crc="3801931658" ref="hp-285-pro-g1-microtower-pc"/>
+    <file name="hp 285 pro g1 microtower pc-u8018-fr.jpg" crc="3821384998" ref="hp-285-pro-g1-microtower-pc"/>
+    <file name="hp 285 pro g1 microtower pc view-u8010-fr.jpg" crc="4029393802" ref="hp-285-pro-g1-microtower-pc"/>
+    <file name="hp-200-g1-microtower-business-pc-favicon.ico" crc="155219141" ref="hp-200-g1-microtower-business-pc"/>
+    <file name="hp 200 g1 microtower business pc-u8104-fr.jpg" crc="4023380348" ref="hp-200-g1-microtower-business-pc"/>
+    <file name="hp 200 g1 microtower business pc letter-u8116-fr.jpg" crc="4279146078" ref="hp-200-g1-microtower-business-pc"/>
+    <file name="hp-all-in-one-desktops-favicon.ico" crc="155219141" ref="hp-all-in-one-desktops"/>
+    <file name="20151018121919-u7968-fr.jpg" crc="4106774259" ref="hp-all-in-one-desktops"/>
+    <file name="hp_logo-u7990-fr.png" crc="407381179" ref="hp-all-in-one-desktops"/>
+    <file name="capture-u7983-fr.jpg" crc="3863909748" ref="hp-all-in-one-desktops"/>
+    <file name="hp-proliant-ml10-server-favicon.ico" crc="155219141" ref="hp-proliant-ml10-server"/>
+    <file name="20151009205149-u28210-fr.jpg" crc="4121198646" ref="hp-proliant-ml10-server"/>
+    <file name="mlserver_2-u28207-fr.jpg" crc="3776124552" ref="hp-proliant-ml10-server"/>
+    <file name="hp-proliant-microserver-favicon.ico" crc="155219141" ref="hp-proliant-microserver"/>
+    <file name="microserver_2.jpg" crc="58560855" ref="hp-proliant-microserver"/>
+    <file name="hp-sl-server-favicon.ico" crc="155219141" ref="hp-sl-server"/>
+    <file name="hp proliant sl4500 sever img.jpg" crc="3956470613" ref="hp-sl-server"/>
+    <file name="hp proliant sl4500 sever-u10675-fr.jpg" crc="4181428559" ref="hp-sl-server"/>
+    <file name="hp_logo-u10682-fr.png" crc="4223404951" ref="hp-sl-server"/>
+    <file name="hp-blade-system-favicon.ico" crc="155219141" ref="hp-blade-system"/>
+    <file name="20151021072439-u7931-fr.jpg" crc="4190836480" ref="hp-blade-system"/>
+    <file name="20160312101129-u30955-fr.png" crc="4007439218" ref="hp-blade-system"/>
+    <file name="hp pro 3300 small form factor pc title-u10825-fr.jpg" crc="4011268423" ref="hp-pro-3300-small-form-factor-pc"/>
+    <file name="20151025092016-u10858-fr.jpg" crc="3770945034" ref="hp-pro-3300-small-form-factor-pc"/>
+    <file name="hp-proliant-dl980-g7-favicon.ico" crc="155219141" ref="hp-proliant-dl980-g7"/>
+    <file name="dlserver_3.jpg" crc="54636738" ref="hp-proliant-dl980-g7"/>
+    <file name="amlutech-imported-product--scanners-favicon.ico" crc="155219141" ref="amlutech-imported-product--scanners"/>
+    <file name="hpscanjet300flatbedphotoscanner-u8233-fr.jpg" crc="189770700" ref="amlutech-imported-product--scanners"/>
+    <file name="scanjet enterprise 7000 s2.jpg" crc="4280895151" ref="amlutech-imported-product--scanners"/>
+    <file name="scanjet enterprise 7000.jpg" crc="253230907" ref="amlutech-imported-product--scanners"/>
+    <file name="dashed separator.png" crc="3903173419" ref="amlutech-imported-product--scanners"/>
+    <file name="hp-customer-event-in-colaberation-with-amlutech-private-limited-company-favicon.ico" crc="155219141" ref="hp-customer-event-in-colaberation-with-amlutech-private-limited-company"/>
+    <file name="our-recent-customers-favicon.ico" crc="155219141" ref="our-recent-customers"/>
+    <file name="fao-u36595-fr.png" crc="3768034043" ref="our-recent-customers"/>
+    <file name="msh-u36602-fr.jpg" crc="76231925" ref="our-recent-customers"/>
+    <file name="slit shadow 2 sharp2.png" crc="510555609" ref="pin-point-amlutech-(google-map):our-recent-customers"/>
+    <file name="20160227094917-u21122-fr.jpg" crc="4100159297" ref="our-recent-customers"/>
+    <file name="20160227094247-u21129-fr.jpg" crc="3809483930" ref="our-recent-customers"/>
+    <file name="20160227094806-u21115-fr.png" crc="3803592487" ref="our-recent-customers"/>
+    <file name="20160227100723-u21143-fr.jpg" crc="221225756" ref="our-recent-customers"/>
+    <file name="20160227103343-u21179-fr.jpg" crc="70303627" ref="our-recent-customers"/>
+    <file name="20160227094711-u21130-fr.png" crc="4290852517" ref="our-recent-customers"/>
+    <file name="20160227101041-u21150-fr.png" crc="265456446" ref="our-recent-customers"/>
+    <file name="20160227102810-u21151-fr.png" crc="3767034413" ref="our-recent-customers"/>
+    <file name="20160227094613-u23412-fr.png" crc="310116005" ref="our-recent-customers"/>
+    <file name="who-u36603-fr.jpg" crc="3890671852" ref="our-recent-customers"/>
+    <file name="nib-u36619-fr.jpg" crc="4286535830" ref="our-recent-customers"/>
+    <file name="amlutech-s-fully-equiped-and-authorized-maintainance-room-favicon.ico" crc="155219141" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="logo-u34691-fr.jpg" crc="74883926" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="hard slit separator83x23.png" crc="3912866286" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer1-u34715-fr.jpg" crc="4179432825" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="workstations-u34708-fr.jpg" crc="510668786" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="20160319051342-u34705-fr.jpg" crc="4147664217" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="blade_system_4-u34712-fr.jpg" crc="338114745" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse"/>
+    <file name="20160223035837-u34695-fr.png" crc="4163646458" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="aoud-crop-u31034.jpg" crc="287961449" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="blank.gif" crc="4208392903" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="get-crop-u31032.jpg" crc="240610831" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="enken-crop-u31036.jpg" crc="4121951977" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="sel1-8121-u31038.png" crc="3865069934" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room"/>
+    <file name="loading.gif" crc="3815509949" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office:event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="20160209051135-u31136-fr.png" crc="3830155911" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="phone.jpg" crc="4028730040" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="post.jpg" crc="389792705" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="20160216200155-u30985-fr.png" crc="4105728552" ref="amlutech-s-fully-equiped-and-authorized-maintainance-room:amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="amlutech-s-facility--display-workshop-favicon.ico" crc="155219141" ref="amlutech-s-facility--display-workshop"/>
+    <file name="20160227120327-u34681-fr.jpg" crc="3854696738" ref="amlutech-s-facility--display-workshop:amlutech-s-facility--head-office"/>
+    <file name="c04915957-u34677-fr.png" crc="258386470" ref="amlutech-s-facility--display-workshop:amlutech-s-facility--warehouse"/>
+    <file name="aoud-crop-u31193.jpg" crc="287961449" ref="amlutech-s-facility--display-workshop"/>
+    <file name="get-crop-u31189.jpg" crc="240610831" ref="amlutech-s-facility--display-workshop"/>
+    <file name="enken-crop-u31191.jpg" crc="4121951977" ref="amlutech-s-facility--display-workshop"/>
+    <file name="sel1-8121-u31187.png" crc="3865069934" ref="amlutech-s-facility--display-workshop"/>
+    <file name="amlutech-s-facility--warehouse-favicon.ico" crc="155219141" ref="amlutech-s-facility--warehouse"/>
+    <file name="inks-u34651-fr.jpg" crc="234550000" ref="amlutech-s-facility--warehouse:amlutech-s-facility--head-office"/>
+    <file name="aoud-crop-u31256.jpg" crc="287961449" ref="amlutech-s-facility--warehouse"/>
+    <file name="get-crop-u31252.jpg" crc="240610831" ref="amlutech-s-facility--warehouse"/>
+    <file name="enken-crop-u31254.jpg" crc="4121951977" ref="amlutech-s-facility--warehouse"/>
+    <file name="sel1-8121-u31250.png" crc="3865069934" ref="amlutech-s-facility--warehouse"/>
+    <file name="amlutech-s-facility--head-office-favicon.ico" crc="155219141" ref="amlutech-s-facility--head-office"/>
+    <file name="blade_system_4-u34617-fr.jpg" crc="4075630157" ref="amlutech-s-facility--head-office"/>
+    <file name="aoud-crop-u31319.jpg" crc="287961449" ref="amlutech-s-facility--head-office"/>
+    <file name="get-crop-u31315.jpg" crc="240610831" ref="amlutech-s-facility--head-office"/>
+    <file name="enken-crop-u31317.jpg" crc="4121951977" ref="amlutech-s-facility--head-office"/>
+    <file name="sel1-8121-u31313.png" crc="3865069934" ref="amlutech-s-facility--head-office"/>
+    <file name="event-2014gc-favicon.ico" crc="155219141" ref="event-2014gc"/>
+    <file name="pp-u30415-fr.jpg" crc="177182592" ref="event-2014gc:event-2013gc:event-on-december-10---2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="hilton_1-crop-u30400.jpg" crc="3978974783" ref="event-2014gc"/>
+    <file name="hilton_2.jpg" crc="480168723" ref="event-2014gc"/>
+    <file name="hilton6-crop-u30404.jpg" crc="3879088598" ref="event-2014gc"/>
+    <file name="hilton5-8121-u30406.png" crc="412728208" ref="event-2014gc"/>
+    <file name="event-2013gc-favicon.ico" crc="155219141" ref="event-2013gc"/>
+    <file name="bahidar1-crop-u30342.jpg" crc="53008093" ref="event-2013gc"/>
+    <file name="bahirdar2-crop-u30344.jpg" crc="324848569" ref="event-2013gc"/>
+    <file name="bahirdar3-crop-u30346.jpg" crc="3894529042" ref="event-2013gc"/>
+    <file name="event-on-december-10---2013gc-favicon.ico" crc="155219141" ref="event-on-december-10---2013gc"/>
+    <file name="sheraton21-crop-u18220.jpg" crc="4266510845" ref="event-on-december-10---2013gc"/>
+    <file name="sheraton23-crop-u18218.jpg" crc="4086503078" ref="event-on-december-10---2013gc"/>
+    <file name="sheraton22-crop-u18222.jpg" crc="3910757304" ref="event-on-december-10---2013gc"/>
+    <file name="event-2015gc-favicon.ico" crc="155219141" ref="event-2015gc"/>
+    <file name="asham1-crop-u30458.jpg" crc="3833817091" ref="event-2015gc"/>
+    <file name="asham2-crop-u30460.jpg" crc="410333761" ref="event-2015gc"/>
+    <file name="asham3-crop-u30462.jpg" crc="4257896093" ref="event-2015gc"/>
+    <file name="asham4-8121-u30464.png" crc="4294611709" ref="event-2015gc"/>
+    <file name="pin-point-amlutech-(google-map)-favicon.ico" crc="155219141" ref="pin-point-amlutech-(google-map)"/>
+    <file name="20160216200301-u14430-fr.png" crc="499227116" ref="pin-point-amlutech-(google-map)"/>
+    <file name="event-on-april-30---2012gc-favicon.ico" crc="155219141" ref="event-on-april-30---2012gc"/>
+    <file name="awassa1-crop-u30516.jpg" crc="3886479851" ref="event-on-april-30---2012gc"/>
+    <file name="awassa2-crop-u30518.jpg" crc="4107592850" ref="event-on-april-30---2012gc"/>
+    <file name="awassa3.jpg" crc="490321519" ref="event-on-april-30---2012gc"/>
+    <file name="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop-favicon.ico" crc="155219141" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="capture5.jpg" crc="511288468" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="newproduct-u29106-fr.jpg" crc="300322983" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="20160302095248-u26384-fr.png" crc="4153157175" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="win10logo-u28921-fr.jpg" crc="4102963190" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="vivd_display-u28928-fr.jpg" crc="239319724" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="ultra-pportable-design-u28929-fr.jpg" crc="3865902451" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="ssd-u28930-fr.jpg" crc="3792683979" ref="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="latest-amlutech-imported-desktop--hp-envy-750xt-desktop-favicon.ico" crc="155219141" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="hp-envy-750xt desktop.jpg" crc="3820463997" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="newproduct-u29306.png" crc="265983555" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="link-u29212-fr.png" crc="390328769" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="graph-u29333-fr.jpg" crc="4231912351" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="c04954231-u29334-fr.png" crc="77809219" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="cyberlink-u29314-fr.jpg" crc="288133881" ref="latest-amlutech-imported-desktop--hp-envy-750xt-desktop"/>
+    <file name="hp-deskjet-3630-wireless-all-in-one-printer-favicon.ico" crc="155219141" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer-u31856-fr.jpg" crc="423346884" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer2-u32026-fr.jpg" crc="189182105" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer3-u32027-fr.jpg" crc="3972123214" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer1-u32019-fr.jpg" crc="96632205" ref="hp-deskjet-3630-wireless-all-in-one-printer"/>
+    <file name="officejet-5740-e-all-in-one-printer-favicon.ico" crc="155219141" ref="officejet-5740-e-all-in-one-printer"/>
+    <file name="hp officejet 5740 e-all-in-one printer-u32064-fr.jpg" crc="139129026" ref="officejet-5740-e-all-in-one-printer"/>
+    <file name="hp-laserjet-printers-favicon.ico" crc="155219141" ref="hp-laserjet-printers"/>
+    <file name="hplaserjetprinter-u32836-fr.png" crc="61333259" ref="hp-laserjet-printers"/>
+    <file name="dashed separator-crop-u35836.png" crc="4013607362" ref="hp-laserjet-printers"/>
+    <file name="hp color laserjet pro m477fnw printer-u32843-fr.jpg" crc="137463947" ref="hp-laserjet-printers"/>
+    <file name="dashed separator-crop-u35839.png" crc="4013607362" ref="hp-laserjet-printers"/>
+    <file name="hp color laserjet enterprise m553x printer-u32844-fr.jpg" crc="3935619291" ref="hp-laserjet-printers"/>
+    <file name="dashed separator-crop-u35842.png" crc="4013607362" ref="hp-laserjet-printers"/>
+    <file name="hp color laserjet pro mfp m476dw-u32845-fr.jpg" crc="154405972" ref="hp-laserjet-printers"/>
+    <file name="amlutech-hp-s-gold-partner-favicon.ico" crc="155219141" ref="amlutech-hp-s-gold-partner"/>
+    <file name="hp_logo-u36307-fr.png" crc="29199562" ref="amlutech-hp-s-gold-partner"/>
+    <file name="hp-laserjet-pro-m402dn-printer-favicon.ico" crc="155219141" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="20160421134139-u34818-fr.jpg" crc="3906475609" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="20160421134139.jpg" crc="518754593" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="hp laserjet pro m402 series-u36533-fr.jpg" crc="2969358" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="text2.jpg" crc="4133397064" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="text1.jpg" crc="327498592" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="text3.jpg" crc="529290132" ref="hp-laserjet-pro-m402dn-printer"/>
+    <file name="hp-color-laserjet-enterprise-m553x-printer-favicon.ico" crc="155219141" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp color laserjet enterprise m553x2-u34911-fr.png" crc="46620630" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp color laserjet enterprise m553x1-u34947-fr.png" crc="4195306136" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp color laserjet enterprise m553x3-u34930-fr.png" crc="3867664404" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp color laserjet enterprise m553x-u35058-fr.png" crc="39467719" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="reddot award 2015-u35248-fr.jpg" crc="21369131" ref="hp-color-laserjet-enterprise-m553x-printer"/>
+    <file name="hp-color-laserjet-pro-m477fnw-printer-favicon.ico" crc="155219141" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="hp color laserjet pro m477fnw printer1-u35088-fr.png" crc="4166320927" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="c04798945-u35214-fr.png" crc="4026962377" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="c04798861-u35216-fr.png" crc="395035310" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="c04798917-u35101-fr.png" crc="4227752252" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="jetintelligence-u35068-fr.jpg" crc="3853336449" ref="hp-color-laserjet-pro-m477fnw-printer"/>
+    <file name="hp-color-inkjet-printers-favicon.ico" crc="155219141" ref="hp-color-inkjet-printers"/>
+    <file name="hp deskjet 3630 wireless all-in-one printer-u35272-fr.jpg" crc="3861539407" ref="hp-color-inkjet-printers"/>
+    <file name="hp_logo-u35275-fr.png" crc="381600322" ref="hp-color-inkjet-printers"/>
+    <file name="hp officejet 5740 e-all-in-one printer-u35434-fr.jpg" crc="4040311807" ref="hp-color-inkjet-printers"/>
+    <file name="hp envy 5640 e-all-in-one printer-u35439-fr.jpg" crc="3969196375" ref="hp-color-inkjet-printers"/>
+    <file name="hp_cn459a_officejet_pro_x451dn_network_983400-u35661-fr.jpg" crc="4109615865" ref="hp-color-inkjet-printers"/>
+    <file name="hp-envy-5640-e-all-in-one-printer-favicon.ico" crc="155219141" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp envy 5640 e-all-in-one printer-u35471-fr.jpg" crc="3884611226" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp envy 5640 e-all-in-one printer2-u35509-fr.jpg" crc="362102479" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp envy 5640 e-all-in-one printer3-u35510-fr.jpg" crc="115161323" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="hp envy 5640 e-all-in-one printer1-u35511-fr.jpg" crc="264809006" ref="hp-envy-5640-e-all-in-one-printer"/>
+    <file name="logo1-u13540-fr.jpg" crc="4001475859" ref="index:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:amlutech--contact-us"/>
+    <file name="logo2-u37271-fr.jpg" crc="10857398" ref="index:workstations---allinone:workstations---z820:workstations---z620:workstations---z420:amlutech--contact-us"/>
+    <file name="logo1-u37305-fr.jpg" crc="4001475859" ref="hp-customer-event-in-colaberation-with-amlutech-private-limited-company:event-2014gc:event-2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="logo2-u37306-fr.jpg" crc="10857398" ref="hp-customer-event-in-colaberation-with-amlutech-private-limited-company:event-2014gc:event-2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="20160220170050-u34773-fr.jpg" crc="409658331" ref="hp-customer-event-in-colaberation-with-amlutech-private-limited-company:event-2014gc:event-2013gc:event-2015gc:event-on-april-30---2012gc"/>
+    <file name="logo1-u37325-fr.jpg" crc="4001475859" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="logo2-u37326-fr.jpg" crc="10857398" ref="amlutech-imported-product--workstation-computers"/>
+    <file name="20160223035837-u32955-fr.png" crc="30913053" ref="workstations---allinone:workstations---z820:workstations---z620:workstations---z420"/>
+    <file name="logo1-u37434-fr.jpg" crc="4001475859" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:our-recent-customers:pin-point-amlutech-(google-map):latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-color-inkjet-printers"/>
+    <file name="logo2-u37435-fr.jpg" crc="10857398" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--toners:hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-multi-function-printers:hp-all-in-one-printers:hp-large-format-printers:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-ml10-server:hp-proliant-microserver:hp-sl-server:hp-blade-system:hp-pro-3300-small-form-factor-pc:hp-proliant-dl980-g7:amlutech-imported-product--scanners:our-recent-customers:pin-point-amlutech-(google-map):latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop:latest-amlutech-imported-desktop--hp-envy-750xt-desktop:hp-laserjet-printers:amlutech-hp-s-gold-partner:hp-color-inkjet-printers"/>
+    <file name="20160223035837-u32609-fr.png" crc="4276551228" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers"/>
+    <file name="20160220170050-u32602-fr.jpg" crc="3773822163" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers"/>
+    <file name="20160223054637-u17066-fr.png" crc="474184550" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--scanners"/>
+    <file name="20160223054704-u17066-r-fr.png" crc="4290605874" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers:amlutech-imported-product--scanners"/>
+    <file name="hp_logo-u29079-fr.png" crc="222716037" ref="amlutech-imported-product--laptop-computers:amlutech-imported-product--printers:amlutech-imported-product--desktop-computers:amlutech-imported-product--servers"/>
+    <file name="20160221184006-u30925-fr.jpg" crc="4107303594" ref="hp-black-and-white-laserjet-printers:hp-elite-note-book:hp-note-books:hp-thin-and-light:hp-elite-mobileworkstations:hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc:hp-all-in-one-desktops:hp-proliant-microserver:hp-sl-server:hp-pro-3300-small-form-factor-pc:latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop"/>
+    <file name="hpp-u6752-fr.jpg" crc="293533794" ref="hp-elite-mobileworkstations:hp-pro-3300-small-form-factor-pc"/>
+    <file name="hp_logo-u8028-fr.png" crc="442570450" ref="hp-285-pro-g1-microtower-pc:hp-200-g1-microtower-business-pc"/>
+    <file name="20160223035837-u36121-fr.png" crc="4163646458" ref="amlutech-hp-s-gold-partner"/>
+    <file name="dsc_1572-u37452-fr.jpg" crc="4290250776" ref="amlutech--contact-us"/>
+    <file name="dsc_0688-u37459-fr.jpg" crc="3811180761" ref="amlutech--contact-us"/>
+    <file name="dsc_0717-u37473-fr.jpg" crc="3828195179" ref="amlutech--contact-us"/>
+  </folder>
+  <file name="index.html" crc="3975127603" mt="1475841795380" redirect="true"/>
+  <file name="amlutech--contact-us.html" crc="4207088703" mt="1475841463485" redirect="true"/>
+  <file name="amlutech-imported-product--workstation-computers.html" crc="3862362682" mt="1475633848837" redirect="true"/>
+  <file name="amlutech-imported-product--laptop-computers.html" crc="438737540" mt="1475634282405" redirect="true"/>
+  <file name="amlutech-imported-product--printers.html" crc="4165777512" mt="1475634588644" redirect="true"/>
+  <file name="amlutech-imported-product--desktop-computers.html" crc="129698793" mt="1475634799952" redirect="true"/>
+  <file name="amlutech-imported-product--servers.html" crc="4071098965" mt="1475634652698" redirect="true"/>
+  <file name="amlutech-imported-product--toners.html" crc="163267303" mt="1475634971382" redirect="true"/>
+  <file name="workstations---allinone.html" crc="107691454" mt="1475634031182" redirect="true"/>
+  <file name="workstations---z820.html" crc="3848062511" mt="1475634068685" redirect="true"/>
+  <file name="workstations---z620.html" crc="263909478" mt="1475634079989" redirect="true"/>
+  <file name="workstations---z420.html" crc="4173294031" mt="1475634089987" redirect="true"/>
+  <file name="workstations---z220.html" crc="509891157" mt="1474694512586" redirect="true"/>
+  <file name="hp-black-and-white-laserjet-printers.html" crc="131300976" mt="1475634501114" redirect="true"/>
+  <file name="hp-elite-note-book.html" crc="487620804" mt="1475634381617" redirect="true"/>
+  <file name="hp-note-books.html" crc="3924802591" mt="1475634371646" redirect="true"/>
+  <file name="hp-thin-and-light.html" crc="4135604880" mt="1475634297355" redirect="true"/>
+  <file name="hp-elite-mobileworkstations.html" crc="450152420" mt="1475634390882" redirect="true"/>
+  <file name="hp-multi-function-printers.html" crc="102249454" mt="1475634541431" redirect="true"/>
+  <file name="hp-all-in-one-printers.html" crc="3964856621" mt="1475634520100" redirect="true"/>
+  <file name="hp-officejet-pro-x451dn-color-inkjet-printer.html" crc="4252439629" mt="1474695480540" redirect="true"/>
+  <file name="hp-color-laserjet-pro-mfp-m476dw.html" crc="3895034420" mt="1474695675811" redirect="true"/>
+  <file name="hp-large-format-printers.html" crc="246833690" mt="1475634555308" redirect="true"/>
+  <file name="hp-285-pro-g1-microtower-pc.html" crc="528248685" mt="1475634813218" redirect="true"/>
+  <file name="hp-200-g1-microtower-business-pc.html" crc="3918828741" mt="1475634906324" redirect="true"/>
+  <file name="hp-all-in-one-desktops.html" crc="234252405" mt="1475634846762" redirect="true"/>
+  <file name="hp-proliant-ml10-server.html" crc="4156458487" mt="1475634728890" redirect="true"/>
+  <file name="hp-proliant-microserver.html" crc="3870499124" mt="1475634725379" redirect="true"/>
+  <file name="hp-sl-server.html" crc="4149801580" mt="1475634741692" redirect="true"/>
+  <file name="hp-blade-system.html" crc="3784105857" mt="1475634736289" redirect="true"/>
+  <file name="hp-pro-3300-small-form-factor-pc.html" crc="51958500" mt="1475634891539" redirect="true"/>
+  <file name="hp-proliant-dl980-g7.html" crc="4245690255" mt="1475634732228" redirect="true"/>
+  <file name="amlutech-imported-product--scanners.html" crc="4005296152" mt="1475635008452" redirect="true"/>
+  <file name="hp-customer-event-in-colaberation-with-amlutech-private-limited-company.html" crc="4025780743" mt="1475632875921" redirect="true"/>
+  <file name="our-recent-customers.html" crc="240887313" mt="1475635000674" redirect="true"/>
+  <file name="amlutech-s-fully-equiped-and-authorized-maintainance-room.html" crc="3978946725" mt="1468408006445" redirect="true"/>
+  <file name="amlutech-s-facility--display-workshop.html" crc="4188264387" mt="1468408007274" redirect="true"/>
+  <file name="amlutech-s-facility--warehouse.html" crc="37918334" mt="1468408008060" redirect="true"/>
+  <file name="amlutech-s-facility--head-office.html" crc="4090686734" mt="1468408009072" redirect="true"/>
+  <file name="event-2014gc.html" crc="4082205393" mt="1475632903190" redirect="true"/>
+  <file name="event-2013gc.html" crc="156506430" mt="1475632894919" redirect="true"/>
+  <file name="event-on-december-10---2013gc.html" crc="3812510336" mt="1474678558602" redirect="true"/>
+  <file name="event-2015gc.html" crc="3993233519" mt="1475632912203" redirect="true"/>
+  <file name="pin-point-amlutech-(google-map).html" crc="3997045677" mt="1475635068242" redirect="true"/>
+  <file name="event-on-april-30---2012gc.html" crc="4044582172" mt="1475632887623" redirect="true"/>
+  <file name="latest-amlutech-imported-notebook--hp-spectre-x360---15t-touch-laptop.html" crc="3847774829" mt="1475634314485" redirect="true"/>
+  <file name="latest-amlutech-imported-desktop--hp-envy-750xt-desktop.html" crc="4126985995" mt="1475634842951" redirect="true"/>
+  <file name="hp-deskjet-3630-wireless-all-in-one-printer.html" crc="177761094" mt="1474695438079" redirect="true"/>
+  <file name="officejet-5740-e-all-in-one-printer.html" crc="171007569" mt="1474695452381" redirect="true"/>
+  <file name="hp-laserjet-printers.html" crc="3892385586" mt="1475634530272" redirect="true"/>
+  <file name="amlutech-hp-s-gold-partner.html" crc="312051166" mt="1475634957541" redirect="true"/>
+  <file name="hp-laserjet-pro-m402dn-printer.html" crc="4028066220" mt="1474695650289" redirect="true"/>
+  <file name="hp-color-laserjet-enterprise-m553x-printer.html" crc="3982525306" mt="1474695664155" redirect="true"/>
+  <file name="hp-color-laserjet-pro-m477fnw-printer.html" crc="113553727" mt="1474695691146" redirect="true"/>
+  <file name="hp-color-inkjet-printers.html" crc="376449911" mt="1475634511062" redirect="true"/>
+  <file name="hp-envy-5640-e-all-in-one-printer.html" crc="181638979" mt="1474695467536" redirect="true"/>
+</manifest>
